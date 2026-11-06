@@ -1,7 +1,5 @@
 
-/* ==============================
-   1. GENERAL SETTINGS
-============================== */
+/*1. GENERAL SETTINGS*/
 
 :root {
     --bg: #fbf8f6;
@@ -112,9 +110,7 @@ h2 em {
 }
 
 
-/* ==============================
-   2. HEADER
-============================== */
+/*2. HEADER*/
 
 .site-header {
     position: sticky;
@@ -193,9 +189,7 @@ h2 em {
 }
 
 
-/* ==============================
-   3. HOME SECTION
-============================== */
+/*3. HOME SECTION*/
 
 .hero {
     min-height: 650px;
@@ -381,9 +375,7 @@ h2 em {
 }
 
 
-/* ==============================
-   4. ABOUT SECTION
-============================== */
+/*4. ABOUT SECTION*/
 
 .about {
     background: var(--surface);
@@ -462,9 +454,7 @@ h2 em {
 }
 
 
-/* ==============================
-   5. PROJECTS SECTION
-============================== */
+/*5. PROJECTS SECTION*/
 
 .work-heading {
     display: flex;
@@ -602,9 +592,7 @@ h2 em {
 }
 
 
-/* ==============================
-   6. CONTACT SECTION
-============================== */
+/*6. CONTACT SECTION*/
 
 .contact {
     background: var(--surface);
